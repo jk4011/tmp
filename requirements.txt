@@ -1,0 +1,9 @@
+torch>=1.5.0
+torchvision==0.2.2
+numpy==1.16.2
+Pillow==5.2.0
+opencv-python
+argparse
+cmake
+torch_optimizer
+dlib==19.18.0
